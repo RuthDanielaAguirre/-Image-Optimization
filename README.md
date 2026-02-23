@@ -60,13 +60,13 @@ The **Image Optimization Suite** is a comprehensive web application that provide
 <div align="center">
 
 ### 🏠 Home Page
-![Home](https://via.placeholder.com/800x450/4c1d95/ffffff?text=Modern+Purple+Gradient+Design)
+![Home](./public/home.png)
 
 ### 🎨 Canvas Editor
-![Canvas Editor](https://via.placeholder.com/800x450/6b21a8/ffffff?text=Real-time+Image+Filters)
+![Canvas Editor](./public/canvas.png)
 
 ### 📚 Tutorial System  
-![Tutorial](https://via.placeholder.com/800x450/7c2d92/ffffff?text=Interactive+Learning)
+![Tutorial](./public/tutorial.png)
 
 </div>
 
