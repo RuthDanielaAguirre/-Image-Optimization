@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2.0+-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-7.3.1+-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[✨ Live Demo](#) • [📚 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
+
 
 </div>
 
